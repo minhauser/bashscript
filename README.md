@@ -1,0 +1,2 @@
+# bashscript
+숙제
